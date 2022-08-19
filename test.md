@@ -13,3 +13,9 @@ b. 番号リスト
 
 - [ ] チェックリスト
 - [x] チェックリスト
+
+[Google][G]  
+[xxxxxへメール][xxxxx]  
+
+[G]:http://google.com
+[xxxxx]:xxxxx@gmail.com
